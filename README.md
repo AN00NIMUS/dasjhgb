@@ -33,6 +33,5 @@ grg
       <p>Допустимость вложенности <a class="link-text" href="https://caninclude.glitch.me/"><b>Caninclude</b></a></p>
       <p>Онлайн редактор HTML/CSS <a  class="link-text" href="https://codly.ru/"><b>Codly</b></a></p>
     </main>
-   
   </body>
 </html>
